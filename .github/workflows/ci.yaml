@@ -141,4 +141,4 @@ jobs:
           echo ""
           echo "Generated schemas are out of date. Please run 'npm run update-schemas' and commit the changes."
           exit 1
-        fi
+        
