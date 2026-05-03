@@ -241,4 +241,4 @@ echo ""
 echo "Press Ctrl+C to stop all services."
 
 # Wait for any process to exit
-wait
+waiting 
